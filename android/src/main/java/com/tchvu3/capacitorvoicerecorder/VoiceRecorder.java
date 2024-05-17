@@ -1,4 +1,4 @@
-package com.tchvu3.capacitorvoicerecorder;
+package com.langx.capacitorvoicerecorder;
 
 import android.Manifest;
 import android.content.Context;

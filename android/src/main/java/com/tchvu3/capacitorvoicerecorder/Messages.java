@@ -1,4 +1,4 @@
-package com.tchvu3.capacitorvoicerecorder;
+package com.langx.capacitorvoicerecorder;
 
 public abstract class Messages {
 
