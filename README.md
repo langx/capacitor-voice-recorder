@@ -17,7 +17,6 @@
 <p align="center">Capacitor plugin for simple voice recording (For Capacitor 6)</p>
 
 <p align="center">
-  <img src="https://img.shields.io/maintenance/yes/2023" />
   <a href="https://github.com/langx/capacitor-voice-recorder"><img src="https://img.shields.io/npm/l/@langx/capacitor-voice-recorder" /></a>
 <br>
   <a href="https://github.com/langx/capacitor-voice-recorder"><img src="https://img.shields.io/npm/dw/@langx/capacitor-voice-recorder" /></a>
