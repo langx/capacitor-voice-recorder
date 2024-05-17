@@ -1,4 +1,4 @@
-package com.langx.capacitorvoicerecorder;
+package com.langx.langxcapacitorvoicerecorder;
 
 import android.content.Context;
 import android.media.MediaRecorder;
