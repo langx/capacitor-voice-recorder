@@ -18,10 +18,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2023" />
-  <a href="https://github.com/langx/capacitor-voice-recorder"><img src="https://img.shields.io/npm/l/capacitor-voice-recorder" /></a>
+  <a href="https://github.com/langx/capacitor-voice-recorder"><img src="https://img.shields.io/npm/l/@langx/capacitor-voice-recorder" /></a>
 <br>
-  <a href="https://github.com/langx/capacitor-voice-recorder"><img src="https://img.shields.io/npm/dw/capacitor-voice-recorder" /></a>
-  <a href="https://github.com/langx/capacitor-voice-recorder"><img src="https://img.shields.io/npm/v/capacitor-voice-recorder" /></a>
+  <a href="https://github.com/langx/capacitor-voice-recorder"><img src="https://img.shields.io/npm/dw/@langx/capacitor-voice-recorder" /></a>
+  <a href="https://github.com/langx/capacitor-voice-recorder"><img src="https://img.shields.io/npm/v/@langx/capacitor-voice-recorder" /></a>
 </p>
 
 ## Maintainers
