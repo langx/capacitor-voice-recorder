@@ -1,4 +1,4 @@
-package com.langx.langxcapacitorvoicerecorder;
+package com.langx.capacitorvoicerecorder;
 
 public enum CurrentRecordingStatus {
 

@@ -1,4 +1,4 @@
-package com.langx.langxcapacitorvoicerecorder;
+package com.langx.capacitorvoicerecorder;
 
 import android.Manifest;
 import android.content.Context;
