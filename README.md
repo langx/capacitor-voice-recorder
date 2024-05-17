@@ -30,10 +30,9 @@
 
 ## Maintainers
 
-| Maintainer   | GitHub                                |
-| ------------ | ------------------------------------- |
-| Avihu Harush | [tchvu3](https://github.com/tchvu3)   |
-| Xue Link     | [xuelink](https://github.com/xuelink) |
+| Maintainer | GitHub                                |
+| ---------- | ------------------------------------- |
+| Xue Link   | [xuelink](https://github.com/xuelink) |
 
 ## Installation
 
