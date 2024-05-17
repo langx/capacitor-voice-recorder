@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorVoiceRecorder.podspec"
+    "LangxCapacitorVoiceRecorder.podspec"
   ],
   "author": {
     "name": "LangX",

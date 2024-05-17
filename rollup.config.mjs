@@ -4,7 +4,7 @@ export default {
     {
       file: 'dist/plugin.js',
       format: 'iife',
-      name: 'capacitorVoiceRecorder',
+      name: 'LangxCapacitorVoiceRecorder',
       globals: {
         '@capacitor/core': 'capacitorExports',
       },
