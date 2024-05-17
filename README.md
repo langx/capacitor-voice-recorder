@@ -38,7 +38,7 @@
 ## Installation
 
 ```
-npm install --save capacitor-voice-recorder
+npm install --save @langx/capacitor-voice-recorder
 npx cap sync
 ```
 
