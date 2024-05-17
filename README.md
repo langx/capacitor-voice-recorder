@@ -33,7 +33,7 @@
 | Maintainer   | GitHub                                |
 | ------------ | ------------------------------------- |
 | Avihu Harush | [tchvu3](https://github.com/tchvu3)   |
-| Xuelink      | [xuelink](https://github.com/xuelink) |
+| Xue Link     | [xuelink](https://github.com/xuelink) |
 
 ## Installation
 
